@@ -633,8 +633,15 @@ header.sticky {
             font-family: "Open Sans-700";
             font-size: 16px;
             line-height: 18px; }
+            .card-box_item__body-table .item .number b {
+              font-size: 0.8em; }
     .card-box_item__btn {
       margin-top: auto; }
+      .card-box_item__btn .main-screen-content_btn {
+        padding-left: 30px;
+        padding-right: 30px;
+        height: 40px;
+        font-size: 12px; }
 
 .adv {
   position: relative;
