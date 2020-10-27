@@ -57,7 +57,7 @@
     src: url('OpenSans-Italic.woff2') format('woff2'),
         url('OpenSans-Italic.woff') format('woff');
     font-weight: normal;
-    font-style: italic;
+    font-style: italic; 
     font-display: block;
 }
 
